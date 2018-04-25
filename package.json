@@ -1,0 +1,31 @@
+{
+  "name": "blog-react",
+  "version": "1.0.0",
+  "description": "Front-end do blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "parcel ./public/index.html",
+    "build": "parcel build ./public/index/html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardodasilveira/blog-react.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardodasilveira/blog-react/issues"
+  },
+  "homepage": "https://github.com/leonardodasilveira/blog-react#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "node-sass": "^4.8.3",
+    "parcel-bundler": "^1.7.1"
+  }
+}
