@@ -1,0 +1,45 @@
+
+.card {
+  color: grey;
+  font-size: 25px;
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.post-box {
+  width: 40%;
+}
+
+input, textarea {
+  float: right;
+  padding: 5px;
+  font-size: 15px;
+}
+
+input {
+  width: 320px;
+  height: 25px;
+  border: solid gray 1px;
+  border-radius: 30px;
+}
+
+textarea {
+  width: 320px;  
+  border: solid gray 1px;
+  border-radius: 20px;
+}
+
+button {
+  width: 150px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #ebaf06; 
+  font-size: 17px;
+  margin: 10px 50%;
+}
+
+
+
+
+
